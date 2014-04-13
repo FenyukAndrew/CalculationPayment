@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Коммунальные платежи</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world and Andrew!</string>
+    <string name="water_layout">Вода</string>
+    <string name="gas_layout">Газ</string>
+    <string name="rubbish_layout">Мусор</string>
+    <string name="electricity_layout">Электричество</string>
+    <string name="phone_layout">Телефон</string>
+
+</resources>
